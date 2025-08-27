@@ -1,7 +1,7 @@
 import os, json, requests, datetime, time
 from zoneinfo import ZoneInfo
 
-HANDLES = ["simplesumit12","theUB_02","WarriorFTW","The_Parzival","Legend_Infinity"]
+HANDLES = ["simplesumit12","theUB_02","WarriorFTW","The_Parzival","devanshudubey7349"]
 ONLINE_THRESHOLD = 300
 STATE_FILE = "state.json"
 LOG_FILE = "sessions.log"
