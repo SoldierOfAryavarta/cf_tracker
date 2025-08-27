@@ -1,8 +1,8 @@
 {
   "simplesumit12": {
-    "online": true,
-    "start_ts": 1756322176,
-    "last_seen_ts": 1756322176
+    "online": false,
+    "start_ts": null,
+    "last_seen_ts": null
   },
   "theUB_02": {
     "online": false,
